@@ -218,7 +218,7 @@ export function SideBar(props: { className?: string }) {
           </div>
           <div className={styles["sidebar-action"]}>
             <a
-              href={"https://openaipioneer.com/"}
+              href="https://openaipioneer.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
